@@ -17,5 +17,7 @@ class Program
 
         Console.WriteLine($"Your name is {name}");
         Console.WriteLine($"Your age is {age}");
+        
+        Console.ReadKey();
     }
  }
