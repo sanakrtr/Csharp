@@ -1,0 +1,32 @@
+C:\Users\mbych\source\repos\mathapp1\mathapp1\bin\Debug\net8.0-windows\mathapp1.exe
+C:\Users\mbych\source\repos\mathapp1\mathapp1\bin\Debug\net8.0-windows\mathapp1.deps.json
+C:\Users\mbych\source\repos\mathapp1\mathapp1\bin\Debug\net8.0-windows\mathapp1.runtimeconfig.json
+C:\Users\mbych\source\repos\mathapp1\mathapp1\bin\Debug\net8.0-windows\mathapp1.dll
+C:\Users\mbych\source\repos\mathapp1\mathapp1\bin\Debug\net8.0-windows\mathapp1.pdb
+C:\Users\mbych\source\repos\mathapp1\mathapp1\obj\Debug\net8.0-windows\mathapp1.Form1.resources
+C:\Users\mbych\source\repos\mathapp1\mathapp1\obj\Debug\net8.0-windows\mathapp1.vbproj.GenerateResource.cache
+C:\Users\mbych\source\repos\mathapp1\mathapp1\obj\Debug\net8.0-windows\mathapp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbych\source\repos\mathapp1\mathapp1\obj\Debug\net8.0-windows\mathapp1.AssemblyInfoInputs.cache
+C:\Users\mbych\source\repos\mathapp1\mathapp1\obj\Debug\net8.0-windows\mathapp1.AssemblyInfo.vb
+C:\Users\mbych\source\repos\mathapp1\mathapp1\obj\Debug\net8.0-windows\mathapp1.vbproj.CoreCompileInputs.cache
+C:\Users\mbych\source\repos\mathapp1\mathapp1\obj\Debug\net8.0-windows\mathapp1.dll
+C:\Users\mbych\source\repos\mathapp1\mathapp1\obj\Debug\net8.0-windows\refint\mathapp1.dll
+C:\Users\mbych\source\repos\mathapp1\mathapp1\obj\Debug\net8.0-windows\mathapp1.pdb
+C:\Users\mbych\source\repos\mathapp1\mathapp1\obj\Debug\net8.0-windows\mathapp1.genruntimeconfig.cache
+C:\Users\mbych\source\repos\mathapp1\mathapp1\obj\Debug\net8.0-windows\ref\mathapp1.dll
+C:\Users\Оксана Поченчук\Desktop\lab1 Поченчук\mathapp1\bin\Debug\net8.0-windows\mathapp1.exe
+C:\Users\Оксана Поченчук\Desktop\lab1 Поченчук\mathapp1\bin\Debug\net8.0-windows\mathapp1.deps.json
+C:\Users\Оксана Поченчук\Desktop\lab1 Поченчук\mathapp1\bin\Debug\net8.0-windows\mathapp1.runtimeconfig.json
+C:\Users\Оксана Поченчук\Desktop\lab1 Поченчук\mathapp1\bin\Debug\net8.0-windows\mathapp1.dll
+C:\Users\Оксана Поченчук\Desktop\lab1 Поченчук\mathapp1\bin\Debug\net8.0-windows\mathapp1.pdb
+C:\Users\Оксана Поченчук\Desktop\lab1 Поченчук\mathapp1\obj\Debug\net8.0-windows\mathapp1.Form1.resources
+C:\Users\Оксана Поченчук\Desktop\lab1 Поченчук\mathapp1\obj\Debug\net8.0-windows\mathapp1.vbproj.GenerateResource.cache
+C:\Users\Оксана Поченчук\Desktop\lab1 Поченчук\mathapp1\obj\Debug\net8.0-windows\mathapp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Оксана Поченчук\Desktop\lab1 Поченчук\mathapp1\obj\Debug\net8.0-windows\mathapp1.AssemblyInfoInputs.cache
+C:\Users\Оксана Поченчук\Desktop\lab1 Поченчук\mathapp1\obj\Debug\net8.0-windows\mathapp1.AssemblyInfo.vb
+C:\Users\Оксана Поченчук\Desktop\lab1 Поченчук\mathapp1\obj\Debug\net8.0-windows\mathapp1.vbproj.CoreCompileInputs.cache
+C:\Users\Оксана Поченчук\Desktop\lab1 Поченчук\mathapp1\obj\Debug\net8.0-windows\mathapp1.dll
+C:\Users\Оксана Поченчук\Desktop\lab1 Поченчук\mathapp1\obj\Debug\net8.0-windows\refint\mathapp1.dll
+C:\Users\Оксана Поченчук\Desktop\lab1 Поченчук\mathapp1\obj\Debug\net8.0-windows\mathapp1.pdb
+C:\Users\Оксана Поченчук\Desktop\lab1 Поченчук\mathapp1\obj\Debug\net8.0-windows\mathapp1.genruntimeconfig.cache
+C:\Users\Оксана Поченчук\Desktop\lab1 Поченчук\mathapp1\obj\Debug\net8.0-windows\ref\mathapp1.dll
